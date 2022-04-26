@@ -48,4 +48,4 @@ int main(){
         default:
         printf("Enter valid choice");
     }
-    rereturn 0;
+    return 0;
